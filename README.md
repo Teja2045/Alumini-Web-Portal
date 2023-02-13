@@ -1,1 +1,1 @@
-# A java web application for to build a bridge between Alumni and the current student body
+# A java web application to build a bridge between Alumni and the current student body
